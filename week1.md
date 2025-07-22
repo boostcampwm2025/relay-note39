@@ -151,6 +151,9 @@
 “앉아서 다리 꼬기, 엉덩이 틀기, 고개 돌리기, 양팔 뻗기 등을 권장합니다.”  💪
 
 ### 화요일
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/418df122-4881-4a5c-8e5a-53118d18ee68" />
+
 ### 수요일
 ### 목요일
 ## S002_김상규 - 퀘스트 내용과 수행 과정 및 결과
