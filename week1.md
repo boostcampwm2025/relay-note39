@@ -196,6 +196,8 @@ _답변에 나온 스트레칭 횟수를 최소 1번은 실행_ 이 수행 기�
 
 ### 수요일
 
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/6fa31ff9-296a-4ad8-9485-d27a8dfe47f8" />
+
 
 ### 목요일
 ## S002_김상규 - 퀘스트 내용과 수행 과정 및 결과
