@@ -155,6 +155,9 @@
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/418df122-4881-4a5c-8e5a-53118d18ee68" />
 
 ### 수요일
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/6fa31ff9-296a-4ad8-9485-d27a8dfe47f8" />
+
 ### 목요일
 ## S002_김상규 - 퀘스트 내용과 수행 과정 및 결과
 ### 월요일
