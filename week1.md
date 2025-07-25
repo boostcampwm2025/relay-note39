@@ -277,3 +277,12 @@ _답변에 나온 스트레칭 횟수를 최소 1번은 실행_ 이 수행 기�
 ### 화요일
 ### 수요일
 ### 목요일
+> 질문 시 본인의 상태나 활동 포함해야 함: 오늘 아침에 일어나서 부스트캠프 활동을 했는데, 이후에 눈이 조금 붓고 살짝 아픈것 같아요. 코딩도 어제 하루종일 하다보니 손목도 뻐근한 느낌입니다. 이런 상태에서 어떤 스트레칭을 몇시간 주기로 하는게 좋을까요?
+
+"지금 말씀하신 증상(눈의 피로감, 손목 뻐근함)은 장시간 집중 작업과 화면 응시, 반복된 손 사용에서 자주 나타나는 전형적인 디지털 피로 증후군과 손목 과사용 증상입니다. 이를 예방하고 완화하려면 다음과 같은 스트레칭 루틴과 주기를 추천드립니다"
+
+<br>
+
+<img width="600" height="350" alt="Image" src="https://github.com/user-attachments/assets/7580b866-8134-4f64-b827-a817abc3bd24" />
+<img width="600" height="350" alt="Image" src="https://github.com/user-attachments/assets/2260f3ff-1a0a-4e8f-880b-cb0d1aca3954" />
+<img width="600" height="350" alt="Image" src="https://github.com/user-attachments/assets/449ac125-28ea-4d8a-a995-daf29fe083b8" />
