@@ -142,6 +142,8 @@
 ### 화요일
 ### 수요일
 **수행한 퀘스트: 3.**
+<img width="1511" height="520" alt="image" src="https://gist.github.com/user-attachments/assets/5c2f6b44-58a0-4541-ba50-d8a41f22a1bd" />
+
 ### 목요일
 ## J090_남효윤 - 퀘스트 내용과 수행 과정 및 결과
 ### 월요일
