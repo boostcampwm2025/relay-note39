@@ -135,23 +135,24 @@
 ## J088_김희주 - 퀘스트 내용과 수행 과정 및 결과
 ### 월요일
 **수행한 퀘스트: 1. 알고 있는 내용, 궁금한 내용, 공유하고 싶은 내용 중 하나를 골라 AI 활용해 정리하고, 슬랙에 공유하기**
+<br>
 ![미션1 이미지](https://raw.githubusercontent.com/lucykim05/image/main/mission1.png)
-
-
-**
+<br>
 
 ### 화요일
 **2. 피어 피드백 시간에 동료들에게 토론할 주제를 AI 통해 정하기**
-
+<br>
 ### 수요일
 **수행한 퀘스트: 3. 매일 몇 시간 마다 스트레칭 해주면 좋을 지 질문하기**
+<br>
 <img src="https://raw.githubusercontent.com/lucykim05/image/main/mission3.png" width="400" />
-
+<br>
 ### 목요일
 **4. 나의 활동을 기반으로 AI에게 칭찬 받기**
+<br>
 
 ![미션 4](https://raw.githubusercontent.com/lucykim05/image/main/mission4.png)
-
+<br>
 ## J090_남효윤 - 퀘스트 내용과 수행 과정 및 결과
 ### 월요일
 **수행한 퀘스트: 2번 피어 피드백 시간에 동료들에게 토론할 주제를 AI 통해 정하기**   
