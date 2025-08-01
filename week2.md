@@ -190,5 +190,18 @@
 ## 💡 선택 이유
 **week2.md에서의 3. 스크린 타임 기반 건강 피드백 받기 이게 아니라 1주차 퀘스트를 선택한 이유는  너무 디지털 서비스에 내 건강을 의존하는거 같은 느낌이 들었다 스트레칭 하는 방법만 알고 나면 컴퓨터 밖에서 내 맘대로 자유롭게 스트레칭 하고 싶어서 선택했다**
 
+<details>
+<summary>📌일주일동안 한 후기</summary>
+<div markdown="1">
+
+바빠서 하루밖에 못했긴 했는데 간단하게라도 내 상태에 맞는 스트레칭을 하고 나니 조금 몸이 이왕되고 긴장이 풀리는게 느껴졌다  
+삭신이 여전히 쑤시긴 하지만 스트레칭과 운동을 병행해서 하면 점점 괜찮아질것 같다  
+<img width="300" height="350" alt="image" src="https://github.com/user-attachments/assets/460fb79d-4d9f-4f47-be42-d6bc2119aa13" />
+<img width="300" height="350" alt="image" src="https://github.com/user-attachments/assets/934f8f0b-fb67-4368-b8bd-29cdfd086eea" />
+<img width="300" height="350" alt="image" src="https://github.com/user-attachments/assets/c7822eff-9df4-4ea7-bf84-d31467161237" />
+
+
+</div>
+</details>
 
 --- 
