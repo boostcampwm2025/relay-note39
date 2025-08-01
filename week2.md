@@ -243,8 +243,9 @@
 <summary>📌일주일동안 한 후기</summary>
 <div markdown="1">
 
-바빠서 하루밖에 못했긴 했는데 간단하게라도 내 상태에 맞는 스트레칭을 하고 나니 조금 몸이 이왕되고 긴장이 풀리는게 느껴졌다  
+바빠서 하루밖에 못했긴 했는데 간단하게라도 내 상태에 맞는 스트레칭을 하고 나니 조금 몸이 이완되고 긴장이 풀리는게 느껴졌다  
 삭신이 여전히 쑤시긴 하지만 스트레칭과 운동을 병행해서 하면 점점 괜찮아질것 같다  
+이걸 잘 활용해서 확장하면 정말 pt받는 것처럼 더 유용하게 사용할 수 도 있을거 같다  
 <img width="300" height="350" alt="image" src="https://github.com/user-attachments/assets/460fb79d-4d9f-4f47-be42-d6bc2119aa13" />
 <img width="300" height="350" alt="image" src="https://github.com/user-attachments/assets/934f8f0b-fb67-4368-b8bd-29cdfd086eea" />
 <img width="300" height="350" alt="image" src="https://github.com/user-attachments/assets/c7822eff-9df4-4ea7-bf84-d31467161237" />
