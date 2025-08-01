@@ -2,7 +2,7 @@
 
 ## 1️⃣ 토론 과정
 
-![](https://private-user-images.githubusercontent.com/88488482/467913331-fa61a2eb-618f-4f88-9e82-e7628ffd8e8d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTI4MjQwMzIsIm5iZiI6MTc1MjgyMzczMiwicGF0aCI6Ii84ODQ4ODQ4Mi80Njc5MTMzMzEtZmE2MWEyZWItNjE4Zi00Zjg4LTllODItZTc2MjhmZmQ4ZThkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzE4VDA3Mjg1MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZhNDliNjNkNWE5ZDk3ZjQ1MTAzZWRjODYzNTNjNzIxY2EwMDcwMjZjMzM2NTg2YmJiMmRjNTlmYzA1N2M3Y2ImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.bGQn7EZeVFXfPerOu7VVyEjpzmuxB1nCdDZsWtVkxN0)
+![alt text](week1Img/image.png)
 
 ## 2️⃣ 토론 내용 정리
 
@@ -124,87 +124,103 @@
 > 무엇보다 4주라는 여정을 완주하기 위해 본인을 잘 챙기는 습관을 들이길 바랍니다.
 
 # (릴레이 노트 전달받은 후) 결정 사항 퀘스트 수행 과정 및 결과 - week1
+
 > [!NOTE]
 > 퀘스트 수행 중 기준이나 방법이 명확하지 않다고 생각되면 스스로 개선하고, 해당 사항을 팀원들과 공유하기
 
-- **J088_김희주**: 퀘스트 1 -> 2 -> 3 -> 4 순서로 하루에 한 개씩 진행(월\~목)
-- **J090_남효윤**: 퀘스트 2 -> 3 -> 4 -> 1 순서로 하루에 한 개씩 진행(월\~목)
-- **J105_박다미**: 퀘스트 3 -> 4 -> 1 -> 2 순서로 하루에 한 개씩 진행(월\~목)
-- **S002_김상규**: 퀘스트 4 -> 1 -> 2 -> 3 순서로 하루에 한 개씩 진행(월\~목)
+- **J088\_김희주**: 퀘스트 1 -> 2 -> 3 -> 4 순서로 하루에 한 개씩 진행(월\~목)
+- **J090\_남효윤**: 퀘스트 2 -> 3 -> 4 -> 1 순서로 하루에 한 개씩 진행(월\~목)
+- **J105\_박다미**: 퀘스트 3 -> 4 -> 1 -> 2 순서로 하루에 한 개씩 진행(월\~목)
+- **S002\_김상규**: 퀘스트 4 -> 1 -> 2 -> 3 순서로 하루에 한 개씩 진행(월\~목)
 
-## J088_김희주 - 퀘스트 내용과 수행 과정 및 결과
+## J088\_김희주 - 퀘스트 내용과 수행 과정 및 결과
+
 ### 월요일
+
 **수행한 퀘스트: 1. 알고 있는 내용, 궁금한 내용, 공유하고 싶은 내용 중 하나를 골라 AI 활용해 정리하고, 슬랙에 공유하기**
 <br>
 ![미션1 이미지](https://raw.githubusercontent.com/lucykim05/image/main/mission1.png)
 <br>
 
 ### 화요일
+
 **2. 피어 피드백 시간에 동료들에게 토론할 주제를 AI 통해 정하기**
 <br>
+
 ### 수요일
+
 **수행한 퀘스트: 3. 매일 몇 시간 마다 스트레칭 해주면 좋을 지 질문하기**
 <br>
 <img src="https://raw.githubusercontent.com/lucykim05/image/main/mission3.png" width="400" />
 <br>
+
 ### 목요일
+
 **4. 나의 활동을 기반으로 AI에게 칭찬 받기**
 <br>
 
 ![미션 4](https://raw.githubusercontent.com/lucykim05/image/main/mission4.png)
 <br>
-## J090_남효윤 - 퀘스트 내용과 수행 과정 및 결과
+
+## J090\_남효윤 - 퀘스트 내용과 수행 과정 및 결과
+
 ### 월요일
-**수행한 퀘스트: 2번 피어 피드백 시간에 동료들에게 토론할 주제를 AI 통해 정하기**   
 
-**AI 사용 방식:** day06 미션을 해결하면서 Gemini 2.5 Pro와 많은 대화를 나눴는데, 해당 퀘스트를 수행하기 위해 "너와 내가 토론했던 내용 중 위 퀘스트에 적절한 것이 있을까?"라고 질문한 뒤, 추천받은 주제 중 1개를 골라서 피어 피드백 시간에 토론을 진행했어요.   
+**수행한 퀘스트: 2번 피어 피드백 시간에 동료들에게 토론할 주제를 AI 통해 정하기**
 
-**토론 주제:** 2개의 타노스 인스턴스가 서로 스톤을 공유해야 된다는 요구사항을 Thanos 클래스의 static 변수로 구현하여 충족시켰는데, AI는 "static 변수는 전역 변수와 유사한 특성을 가져 테스트를 복잡하게 만들거나 상태 예측을 어렵게 할 수 있다. static을 사용하지 않고 별도의 StoneManager 클래스를 설계했다면 어땠을까? 장단점은 무엇일까?   
+**AI 사용 방식:** day06 미션을 해결하면서 Gemini 2.5 Pro와 많은 대화를 나눴는데, 해당 퀘스트를 수행하기 위해 "너와 내가 토론했던 내용 중 위 퀘스트에 적절한 것이 있을까?"라고 질문한 뒤, 추천받은 주제 중 1개를 골라서 피어 피드백 시간에 토론을 진행했어요.
 
-**오고 간 대화**   
+**토론 주제:** 2개의 타노스 인스턴스가 서로 스톤을 공유해야 된다는 요구사항을 Thanos 클래스의 static 변수로 구현하여 충족시켰는데, AI는 "static 변수는 전역 변수와 유사한 특성을 가져 테스트를 복잡하게 만들거나 상태 예측을 어렵게 할 수 있다. static을 사용하지 않고 별도의 StoneManager 클래스를 설계했다면 어땠을까? 장단점은 무엇일까?
+
+**오고 간 대화**
+
 - (팀원) 실제로 구조가 더 복잡해진다면 StoneManager 클래스를 설계해서 관리하는 편이 좋겠다. 하지만 이번 미션에서는 타노스의 스톤만 잘 관리해주면 되니까 static도 괜찮다고 생각한다.
 - (나) 설계와 구현을 간단하게 하기 위해서 static 변수로 유지를 했는데, 테스트 코드를 작성할 때 이전 테스트로 인한 스톤 변경사항이 다음 테스트에 영향을 주는 문제가 있었다. 이를 해결하기 위해 `resetStone()` 메서드를 구현하고 각 단위 테스트마다 호출하도록 해서 문제를 해결했다.
-- (나) 내가 static으로 설계한 이유는 'trade-off는 항상 존재한다'라고 생각하는데, 이번 미션에서는 별도의 매니저 클래스를 설계하는 것보다 타노스 클래스 수준에서 static으로 관리할 때의 이점이 더 많다고 판단했기 때문이다. 
+- (나) 내가 static으로 설계한 이유는 'trade-off는 항상 존재한다'라고 생각하는데, 이번 미션에서는 별도의 매니저 클래스를 설계하는 것보다 타노스 클래스 수준에서 static으로 관리할 때의 이점이 더 많다고 판단했기 때문이다.
 
 ### 화요일
-**수행한 퀘스트: 3. 매일 몇 시간 마다 스트레칭 해주면 좋을 지 질문하기**   
-(화요일에 수행하지 못하고, 수요일에 수행함)   
 
-<img width="1339" height="718" alt="image" src="https://github.com/user-attachments/assets/b92a3c5d-38b9-4b9d-af13-fbd70745f708" />   
+**수행한 퀘스트: 3. 매일 몇 시간 마다 스트레칭 해주면 좋을 지 질문하기**  
+(화요일에 수행하지 못하고, 수요일에 수행함)
 
-질문 내용   
+<img width="1339" height="718" alt="image" src="https://github.com/user-attachments/assets/b92a3c5d-38b9-4b9d-af13-fbd70745f708" />
 
+질문 내용
 
-<img width="1244" height="660" alt="image" src="https://github.com/user-attachments/assets/700f731e-8c2f-46d3-8803-4e6173aebd2c" />   
+<img width="1244" height="660" alt="image" src="https://github.com/user-attachments/assets/700f731e-8c2f-46d3-8803-4e6173aebd2c" />
 
-**답변 내용**   
+**답변 내용**
+
 - 모두 좋은 스트레칭이지만, 이 중 3번을 의식적으로 시도하려고 한다.
 
-_답변에 나온 스트레칭 횟수를 최소 1번은 실행_ 이 수행 기준인데, 오늘 의식적으로 3회의 스트레칭을 했다! 기준 만족!   
+_답변에 나온 스트레칭 횟수를 최소 1번은 실행_ 이 수행 기준인데, 오늘 의식적으로 3회의 스트레칭을 했다! 기준 만족!
 
 ### 수요일
-내가 작성한 js 코드 파일의 메서드들을 메서드 시그니처 정도만 요약해서 Gist에 첨부하면 내 Gist를 피어 컴파일링 하는 캠퍼들에게 도움이 될까 해서 프로그램을 만들어봤다(다른 캠퍼분이 메서드에 대한 요약 설명을 잘 하신 것이 내가 그분의 Gist를 피어 컴파일링 할 때 시간 절약이나 이해도 부분에 있어서 큰 도움이 된 기억이 프로그램 제작의 동기가 됨).   
-대단한 프로그램은 아니지만 '미션에서 요구해서'가 아닌, '정말 내 스스로 필요성을 느껴서' 개발한 프로그램이라 ai에게 한번 칭찬받고 싶어졌다. 자세한 내용은 아래 사진 참고.   
 
-추가적인 칭찬은 받고싶지 않아서 일단 퀘스트에서는 최소 5개를 기준으로 제시하고 있지만, 1개만 받고 마무리한다.   
+내가 작성한 js 코드 파일의 메서드들을 메서드 시그니처 정도만 요약해서 Gist에 첨부하면 내 Gist를 피어 컴파일링 하는 캠퍼들에게 도움이 될까 해서 프로그램을 만들어봤다(다른 캠퍼분이 메서드에 대한 요약 설명을 잘 하신 것이 내가 그분의 Gist를 피어 컴파일링 할 때 시간 절약이나 이해도 부분에 있어서 큰 도움이 된 기억이 프로그램 제작의 동기가 됨).  
+대단한 프로그램은 아니지만 '미션에서 요구해서'가 아닌, '정말 내 스스로 필요성을 느껴서' 개발한 프로그램이라 ai에게 한번 칭찬받고 싶어졌다. 자세한 내용은 아래 사진 참고.
 
-<img width="1156" height="730" alt="image" src="https://github.com/user-attachments/assets/082f7cfb-f935-4dd9-807d-77b1b642430b" />   
+추가적인 칭찬은 받고싶지 않아서 일단 퀘스트에서는 최소 5개를 기준으로 제시하고 있지만, 1개만 받고 마무리한다.
 
-<img width="1085" height="694" alt="image" src="https://github.com/user-attachments/assets/b5d20390-25ee-4978-919c-ec9d461dfe58" />   
+<img width="1156" height="730" alt="image" src="https://github.com/user-attachments/assets/082f7cfb-f935-4dd9-807d-77b1b642430b" />
 
-갑자기 AST 이야기를 하길래 뭔가 반가웠고, 뭔 말을 하는지 대충 알아들을 수 있어서 뿌듯했음.   
+<img width="1085" height="694" alt="image" src="https://github.com/user-attachments/assets/b5d20390-25ee-4978-919c-ec9d461dfe58" />
 
-<img width="1031" height="156" alt="image" src="https://github.com/user-attachments/assets/8bd1a1aa-b707-469b-b21b-20a38133f3b2" />   
+갑자기 AST 이야기를 하길래 뭔가 반가웠고, 뭔 말을 하는지 대충 알아들을 수 있어서 뿌듯했음.
 
+<img width="1031" height="156" alt="image" src="https://github.com/user-attachments/assets/8bd1a1aa-b707-469b-b21b-20a38133f3b2" />
 
 ### 목요일
-## J105_박다미 - 퀘스트 내용과 수행 과정 및 결과
+
+## J105\_박다미 - 퀘스트 내용과 수행 과정 및 결과
+
 ### 월요일
+
 > 질문 시 본인의 상태나 활동 포함해야 함: 지금 하루 종일 앉아서 코딩만 하고 있어요. 앉은 지 3시간 넘었고, 점심도 대충 먹고 넘겼어요. 집중도 흐려지는데, 이런 상황에서 몇 시간마다 스트레칭 하면 좋을까요?”
 
 “현재처럼 장시간 앉아서 작업하는 경우, 최소 1시간에 한 번씩 가벼운 스트레칭을 권장합니다.  
-특히 목, 어깨, 허리 주변의 뻐근함을 줄여야 하며, 3~5분만 움직여도 다음 집중력이 향상됩니다.” 
-“앉아서 다리 꼬기, 엉덩이 틀기, 고개 돌리기, 양팔 뻗기 등을 권장합니다.”  💪
+특히 목, 어깨, 허리 주변의 뻐근함을 줄여야 하며, 3~5분만 움직여도 다음 집중력이 향상됩니다.”
+“앉아서 다리 꼬기, 엉덩이 틀기, 고개 돌리기, 양팔 뻗기 등을 권장합니다.” 💪
 
 ### 화요일
 
@@ -213,7 +229,6 @@ _답변에 나온 스트레칭 횟수를 최소 1번은 실행_ 이 수행 기�
 ### 수요일
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/6fa31ff9-296a-4ad8-9485-d27a8dfe47f8" />
-
 
 ### 목요일
 
@@ -261,22 +276,26 @@ _답변에 나온 스트레칭 횟수를 최소 1번은 실행_ 이 수행 기�
 - 각 조/조원마다 하나씩 선택해서 미니 발표 or 자유 토론
 - AI에게 사전 논점 요약을 받아서 입장 분리 가능
 - 마지막에 “이 팀만의 합의/원칙” 도출로 마무리하면 좋음
-- ---
 
-## S002_김상규 - 퀘스트 내용과 수행 과정 및 결과
+---
+
+## S002\_김상규 - 퀘스트 내용과 수행 과정 및 결과
+
 ### 월요일
-> 최소 5개 이상 칭찬 받아야 함: 오늘 나의 하루 일과에 대해 이야기할텐데, 특별히 칭찬하고 싶은 점을 있는대로 말해줘 '오늘 하루 일과'
-<img width="516" height="858" alt="Image" src="https://github.com/user-attachments/assets/9f638dea-f326-40ea-965f-d56e6a36fb12" />
 
+> 최소 5개 이상 칭찬 받아야 함: 오늘 나의 하루 일과에 대해 이야기할텐데, 특별히 칭찬하고 싶은 점을 있는대로 말해줘 '오늘 하루 일과'
+> <img width="516" height="858" alt="Image" src="https://github.com/user-attachments/assets/9f638dea-f326-40ea-965f-d56e6a36fb12" />
 
 - 해당 퀘스트를 진행하면서 최근에 AI를 활용하여 심리 상담을 받는 사례가 늘어나고 있다는 뉴스에 대해 공감할 수 있었습니다
 - 물론 AI로 인한 단점이 존재하지만, 나름 공감도 잘해주고 긍정적인 요소들을 분석해서 알려주는 점에서 장점이 충분하다고 느낄 수 있었습니다
 - 털어놓기 어렵거나 힘든 상황이 있다면, 너무 어렵게만 생각하지 말고 가끔은 gpt와도 편하게 이야기를 나누는 것도 큰 도움이 될 것 같네요 😊
 
-  
 ### 화요일
+
 ### 수요일
+
 ### 목요일
+
 > 질문 시 본인의 상태나 활동 포함해야 함: 오늘 아침에 일어나서 부스트캠프 활동을 했는데, 이후에 눈이 조금 붓고 살짝 아픈것 같아요. 코딩도 어제 하루종일 하다보니 손목도 뻐근한 느낌입니다. 이런 상태에서 어떤 스트레칭을 몇시간 주기로 하는게 좋을까요?
 
 "지금 말씀하신 증상(눈의 피로감, 손목 뻐근함)은 장시간 집중 작업과 화면 응시, 반복된 손 사용에서 자주 나타나는 전형적인 디지털 피로 증후군과 손목 과사용 증상입니다. 이를 예방하고 완화하려면 다음과 같은 스트레칭 루틴과 주기를 추천드립니다"
